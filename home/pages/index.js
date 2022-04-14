@@ -17,6 +17,7 @@ export default function Home() {
           <a>About us</a>
         </Link>
       </div>
+      <div>Hello</div>
       <Image
         src="/static/nextjs.png"
         alt="Next.js logo"
